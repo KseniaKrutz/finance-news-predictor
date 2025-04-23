@@ -1,0 +1,5 @@
+API_KEY = "xnNtxALeCPPAwACO8C2EkAs7DvGBXte5"
+SAVE_DIR = "nyt_2024_sections"
+TICKERS = ["NVDA", "INTC", "AMD", "JPM", "GS", "BAC", "DUK", "XOM", "CVX", "BA", "GD", "LMT"]
+START_DATE = "2024-01-01"
+END_DATE = "2025-01-01"

@@ -1,0 +1,14 @@
+pandas
+requests
+yfinance
+transformers
+torch
+seaborn
+matplotlib
+wordcloud
+scikit-learn
+tqdm
+nltk
+selenium
+webdriver-manager
+feedparser

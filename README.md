@@ -29,7 +29,7 @@ https://colab.research.google.com/drive/1tra-FE9DGOBCBaMYRNGuyFYHAQRT-KIr?usp=sh
 - **models/** — Сохранённые модели LSTM и Transformer.
 - **src/** — Исходный код проекта.
 - **logs/** — Логи выполнения проекта.
-- **notebooks/** — Исследовательские ноутбуки.
+- **notebooks/** — Исследовательские заметки.
 
 ## Как запустить
 1. Установить зависимости:
